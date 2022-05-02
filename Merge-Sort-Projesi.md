@@ -1,5 +1,5 @@
 # Merge Sort Projesi- Proje 2
-[PatikaDev](www.patika.dev)
+[Patika.dev](https://www.patika.dev/)
 
 ```mermaid
 graph TD;
