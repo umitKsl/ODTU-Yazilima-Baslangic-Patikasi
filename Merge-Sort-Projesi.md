@@ -1,6 +1,8 @@
 # Merge Sort Projesi- Proje 2
 [Patika.dev](https://www.patika.dev/)
 
+O(nlogn) 
+
 ```mermaid
 graph TD;
     id1[16,21,11,8,12,22]-->id2[16,21,11];
