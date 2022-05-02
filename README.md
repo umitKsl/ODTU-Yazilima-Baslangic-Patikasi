@@ -1,1 +1,2 @@
-# ODTU-Yazilima-Baslangic-Patikasi
+# ODTU Yazilima Baslangic Patikasi Projeleri
+İlgili klasörlerde projelere erişebilirsiniz.
