@@ -1,2 +1,2 @@
-# ODTU Yazilima Baslangic Patikasi Projeleri
+# ODTU Yazılıma Baslangıç Patikası Projeleri
 İlgili klasörlerde projelere erişebilirsiniz.
