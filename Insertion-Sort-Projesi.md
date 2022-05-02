@@ -7,9 +7,9 @@
     [2, 6, 16, 18, 22, 27]<br>
     
 2.  O(n<sup>2</sup>)
-3.  Average Case: n * (n+1) / 2 <br>
-    Worst Case:   n<br>
-    Best Case:    1
+3.  Average Case: O(n<sup>2</sup>) <br>
+    Worst Case:   O(n<sup>2</sup>) <br>
+    Best Case:    O(n)
 4.  Average Case
 
 ## Soru 2
