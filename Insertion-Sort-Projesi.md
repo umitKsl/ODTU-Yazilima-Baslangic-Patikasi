@@ -1,5 +1,5 @@
 # Insertion Sort Projesi- Proje 1
-[PatikaDev](www.patika.dev)
+[Patika.dev](https://www.patika.dev/)
 ## Soru 1
 1.  [22, 27, 16, 2, 18, 6] <br>
     [2, 27, 16, 22, 18, 6] <br>
